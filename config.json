@@ -1,0 +1,11 @@
+{
+	"kEnableTrial": false,
+	"kFreeAds": false,
+	"kIsShowAds": false,
+	"kIsShowSubscription": true,
+	"kIsShowAlertPayment": false,
+	"kMirrorAppId": "632105",
+	"kIsShowCloseButton": false,
+	"offerTop":"$9.99 / Lifetime",
+	"offerBottom":"Cast, Stream, Remote Control"
+}
